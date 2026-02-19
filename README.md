@@ -27,7 +27,7 @@ This project demonstrates **GUI design, event handling, and basic application fl
 - **Java**
 - **Java Swing (GUI Framework)**
 - **AWT** (for layouts and events)
-- IDE: IntelliJ IDEA / Eclipse / NetBeans
+- IDE: VS Code
 
 ---
 
@@ -49,6 +49,4 @@ This project demonstrates **GUI design, event handling, and basic application fl
 ![KFC Menu](assets/screenshot/foods_kfc.png)
 
 ---
-
-## 📂 Project Structure
 
