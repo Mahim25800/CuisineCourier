@@ -34,7 +34,7 @@ This project demonstrates **GUI design, event handling, and basic application fl
 ## 📸 Application Screenshots
 
 ### 🔐 Login Screen
-![Login Screen](assets/screenshot/login.png)
+![Login Screen](assets/screenshot/Login.png)
 
 ### 🏠 Home Page
 ![Home Page](assets/screenshot/home.png)
