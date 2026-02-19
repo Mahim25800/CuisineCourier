@@ -34,19 +34,19 @@ This project demonstrates **GUI design, event handling, and basic application fl
 ## 📸 Application Screenshots
 
 ### 🔐 Login Screen
-![Login Screen](assets/screenshots/login.png)
+![Login Screen](assets/screenshot/login.png)
 
 ### 🏠 Home Page
-![Home Page](assets/screenshots/home.png)
+![Home Page](assets/screenshot/home.png)
 
 ### 🏪 Restaurants Page
-![Restaurants Page](assets/screenshots/restaurants.png)
+![Restaurants Page](assets/screenshot/restaurants.png)
 
 ### 🍕 Pizza Menu
-![Pizza Menu](assets/screenshots/foods_pizza.png)
+![Pizza Menu](assets/screenshot/foods_pizza.png)
 
 ### 🍗 KFC Menu
-![KFC Menu](assets/screenshots/foods_kfc.png)
+![KFC Menu](assets/screenshot/foods_kfc.png)
 
 ---
 
